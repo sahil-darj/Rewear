@@ -34,8 +34,18 @@ ReWear is a web-based platform that enables users to exchange unused clothing th
 ## Screenshot of project
 
 <p align="center">
-  <img src="screenshot/Home page.png" alt="Rewear Logo" width="400">
+  <img src="screenshot/Home page.png" alt="Rewear Logo" width="500">
 </p>
+
+<p align="center">
+  <img src="screenshot/Dashboard.png" alt="Rewear Logo" width="500">
+</p>
+
+<p align="center">
+  <img src="screenshot/Admin panel page.png" alt="Rewear Logo" width="500">
+</p>
+
+##for more screenshot checkout my screenshot folder
 
 ## Local Development
 
