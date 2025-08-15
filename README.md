@@ -31,6 +31,11 @@ ReWear is a web-based platform that enables users to exchange unused clothing th
 - Tailwind CSS
 - React Router
 
+## Screenshot of project
+
+<p align="center">
+  <img src="screenshot/Home page.png" alt="Rewear Logo" width="400">
+</p>
 
 ## Local Development
 
